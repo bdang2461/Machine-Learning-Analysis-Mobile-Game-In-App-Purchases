@@ -40,4 +40,4 @@ Based on an initial study of the dataset, there are several questions we can ask
 Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
 ### Data Set
-The data set is publicly available on [Kaggle]("https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025").
+The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025).
